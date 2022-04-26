@@ -1,7 +1,7 @@
-d77cc19f1170ea130ff1c71fff28fa83 *DESCRIPTION
+ed597dd0bab31fa24a4732449d5aacb1 *DESCRIPTION
 13d34a7eb7bd409fa7ccd2402ff4de0a *NAMESPACE
-0c6cfa550eb6ef0f0f5525d9a974dfcd *R/clear.R
-44309e90068befd0a5adc769669ae995 *README.md
+981a732c8245458a179f4c2950fb3a63 *R/clear.R
+de3dce42cb2e075d44f2bd587d91d5b2 *README.md
 c37b3bea7e96b1f23af2c96f55724753 *man/clear.Rd
 4829f84f1a8d44b80a15b57d23caa6c5 *tests/testthat.R
 ef34c76b0824186b26ca397398bc5c6f *tests/testthat/test-lints.R
