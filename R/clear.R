@@ -60,7 +60,7 @@ clear <- function(keep_environment = FALSE,
   ## Garbage collector/Clear unused RAM:
   invisible(gc(full = TRUE))
   ## Turn it off (important or it gets very slow):
-  if(!fast) {
+  if (!fast) {
     gctorture(FALSE)
   }
 }
